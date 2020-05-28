@@ -1,4 +1,4 @@
 # loginPage-2
 Login page using android
 
-![](images/lo.png)
+![](image/lo.png)
